@@ -82,11 +82,11 @@ Entidades y Funcionalidades CRUD
     	Detalle
     	Subtotal
     	Total (incluyendo IVA del 13%)
-________________________________________
+
 Requerimientos de Concurrencia
   •	Conexión Simultánea de Clientes:
-    o	Se utilizarán sockets para permitir la conexión simultánea de múltiples clientes al sistema.
+      o	Se utilizarán sockets para permitir la conexión simultánea de múltiples clientes al sistema.
   •	Procesamiento de Lógica de Negocio:
-    o	Toda la información y lógica de negocio se procesará en el servidor.
-    o	Los accesos, solicitudes y visualizaciones se realizarán desde el cliente.
-    o	El cliente realizará las solicitudes y el servidor procesará las operaciones solicitadas.
+      o	Toda la información y lógica de negocio se procesará en el servidor.
+      o	Los accesos, solicitudes y visualizaciones se realizarán desde el cliente.
+      o	El cliente realizará las solicitudes y el servidor procesará las operaciones solicitadas.
