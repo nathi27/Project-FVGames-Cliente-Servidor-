@@ -2,10 +2,7 @@
 
 Descripción del problema:
 
-La empresa FVGames enfrenta la necesidad de un software integral para la gestión de inventarios, paquetes, clientes, un carrito de compras y las visualizaciones del listado de productos y las compras realizadas. Para abordar estas necesidades, han decidido contratar a una empresa de software la cual proveerá una solución adecuada a estos problemas. 
-
-Objetivo:
-Desarrollar un sistema de gestión para la tienda FVGames que permita administrar inventarios, usuarios, y transacciones, así como gestionar la venta de productos y paquetes especializados en videojuegos.
+La empresa FVGames enfrenta la necesidad de un software integral que permita administrar inventarios, usuarios, y transacciones, así como gestionar la venta de productos y paquetes especializados en videojuegos. Para abordar estas necesidades, han decidido contratar a una empresa de software la cual proveerá una solución adecuada a estos problemas. 
 
 Requerimientos Generales
 •	Inicio de Sesión:
